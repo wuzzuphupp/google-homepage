@@ -21,6 +21,10 @@ li{
     font-size: 13px;
     opacity: 0.75;
 }
-li :hover{
-    text-emphasis: underline;
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f2f2f2;
 }
